@@ -5,8 +5,8 @@ url: "http://www.domain.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Rachel Colby# Your name will go here
-  description: "A personal portfolio and blog website" # used by search engines
+  title: Rachel Colby
+  description: "My professional portfolio" # used by search engines
 
   # Header and footer text
   header_text: >
