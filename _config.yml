@@ -5,12 +5,12 @@ url: "http://www.domain.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Rachel Colby # Your name will go here
+  title: Rachel Colby# Your name will go here
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Web Developer</h1>
+     <h1>Rachel Colby</h1>
   header_text_feature_image: 
   footer_text: >
    Rachel Colby - 2015
