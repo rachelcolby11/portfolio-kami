@@ -6,11 +6,12 @@ url: "http://www.domain.com" # the base hostname & protocol for your site
 theme:
   # Meta
   title: Rachel Colby
-  description: "My professional portfolio" # used by search engines
+  description: "Professional portfolio - Rachel Colby - Rails Web Developer" # used by search engines
 
   # Header and footer text
   header_text: >
      <h1>Rachel Colby</h1>
+     <p>Web Developer<p>
   header_text_feature_image: 
   footer_text: >
    Rachel Colby - 2015
