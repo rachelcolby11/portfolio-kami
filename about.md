@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 permalink: /about/
-feature-img: "img/color.png"
+feature-img: "img/linkedinpic.png"
 ---
 
 I'm passionate about helping people solve problems by building beautiful, innovative web applications. I recently completed Bloc.io's Full Stack Development course, where I built four apps under the guidance of an experienced web developer. I love to collaborate with and learn from talented, motivated people and lend my skills to a broader vision. 
