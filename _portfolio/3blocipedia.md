@@ -2,7 +2,7 @@
 layout: post
 title: Blocipedia
 thumbnail-path: "img/blocipedia.png"
-short-description: A production quality SaaS app that allows users to create their own wikis.
+short-description: A SaaS app where users create their own wikis and can opt to pay for premium.
 
 ---
 

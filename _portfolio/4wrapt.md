@@ -2,7 +2,7 @@
 layout: post
 title: Wrapt
 thumbnail-path: "img/wrapt.png"
-short-description: An application allowing users to make and share lists of gifts they would like to receive.
+short-description: An app that lets users make and share lists of gifts they hope to receive.
 
 ---
 

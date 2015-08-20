@@ -2,7 +2,7 @@
 layout: post
 title: Blocitoff
 thumbnail-path: "img/blocitoff.png"
-short-description: A self-destructing to-do list application.
+short-description: A to-do list app that automatically deletes old items, forcing users to prioritize.
 
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Bloccit
 thumbnail-path: "img/bloccit.png"
-short-description: Reddit replica
+short-description: A Reddit replica where users can post, vote on, share and save links and comments.
 
 ---
 
