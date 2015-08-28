@@ -15,10 +15,10 @@ Blocipedia is a Ruby on Rails application that allows users to create wikis and 
 
 ### Features
 * Anyone can view public wikis.
-* Users can create a standard account in order to create and collaborate on public wikis.
+* Users can create a standard account in order to create, edit, and collaborate on public wikis using Markdown syntax.
 * Users can pay to upgrade their account to Premium in order to view and create private wikis.
-* Premium users can invite others to view and collaborate on the private wikis they create.
-* Premium users can downgrade their account back to standard.
+* Premium users can allow others to view and collaborate on the private wikis they create.
+* Premium users can downgrade their account back to Standard.
 * When a user downgrades his or her account, his or her private wikis will automatically become public. 
 
 ### Technologies
@@ -30,5 +30,6 @@ Blocipedia is a Ruby on Rails application that allows users to create wikis and 
 
 * Devise for user authentication
 * SendGrid for email confirmation
+* Redcarpet for Markdown formatting
 * Pundit for authorization
 * Stripe for payments
