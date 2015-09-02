@@ -1,4 +1,6 @@
-<header class="site-header">
+<!-- Changes to this file should only affect index.html; that is the only file using the default layout which is the only layout that calls header.
+ -->  
+ <header class="site-header index">
 	<nav class="site-nav">
 		<ul>
 			{% for page in site.pages %}
@@ -14,13 +16,11 @@
 	</nav>
 
 	{% if site.theme.header_text %}
-  <div class="call-out" 
+  <div class="call-out index" 
   style="background-image: url('{{ site.baseurl }}/{{ site.theme.header_text_feature_image }}')">
   	<h1 class="site-title">
       <br>
-<!-- 	<a href="{{ site.baseurl }}/">{{ site.theme.title }}</a>
-  // This should only affect index.html; that is the only file using the default layout which is the only layout that calls header.
- -->		</h1>
+		</h1>
 		<div class="divider"></div>
     {{ site.theme.header_text }}
     <div class="divider"></div>

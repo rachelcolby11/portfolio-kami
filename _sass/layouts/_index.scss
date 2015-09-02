@@ -1,6 +1,6 @@
 // Header text feature
 .call-out {
-  padding: 120px 0;
+  padding: 0 0;
   display: inline-block;
   width: 100%;
   background-size: cover;
@@ -39,6 +39,12 @@
     margin:1.5em auto;
   }
 }
+
+.call-out.index {
+  padding: 120px 0;
+}
+
+
 .call-out p:last-child {
   margin-bottom: 0;
 }

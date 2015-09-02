@@ -4,7 +4,6 @@
   border-top:5px solid $header-desc-background-color;
   display: inline-block;
   width: 100%;
-  height: 100vh;
 
   a {
     color: $header-link-color;
@@ -49,4 +48,9 @@
       }
     }
   }
+}
+
+.site-header.index {
+  height: 100vh;
+  background-color: #3fdbf3;
 }
