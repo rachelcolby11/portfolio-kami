@@ -117,3 +117,9 @@ img[align=left] {
 img[align=right] {
   margin-left: 3%;
 }
+p img {
+  max-width: 25%;
+  border: 7px solid;
+  border-color: green;
+  border-radius: 16px;
+}
