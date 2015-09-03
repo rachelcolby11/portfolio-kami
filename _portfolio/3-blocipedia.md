@@ -9,10 +9,12 @@ short-description: A SaaS app where users create their own wikis and can opt to 
 {:.center}
 ![]({{ site.baseurl }}/img/blocipedia.png)
 
+{:.center}
 ### Overview
 
 Blocipedia is a Ruby on Rails application that allows users to create wikis and collaborate on other wikis. Users can pay to upgrade their membership, allowing them to view and create private wikis. 
 
+{:.center}
 ### Features
 * Anyone can view public wikis.
 * Users can create a standard account in order to create, edit, and collaborate on public wikis using Markdown syntax.
@@ -21,6 +23,7 @@ Blocipedia is a Ruby on Rails application that allows users to create wikis and 
 * Premium users can downgrade their account back to Standard.
 * When a user downgrades his or her account, his or her private wikis will automatically become public. 
 
+{:.center}
 ### Technologies
 **Languages, Libraries, and Frameworks:** Ruby on Rails, Bootstrap
 
