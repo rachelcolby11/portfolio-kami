@@ -47,7 +47,6 @@
   }
 }
 
-
 .call-out p:last-child {
   margin-bottom: 0;
 }
@@ -78,6 +77,12 @@
   }
 }
 
+.index-divider {
+  height: 90px;
+  background-color: #131A77;
+  background-size: cover;
+}
+
 //Projects
 .project {
     width:100%;
@@ -101,6 +106,10 @@
   display: block;
   float: left;
   width: 100%;
+  padding: 5% 20%;
+  h3 {
+    margin: 0 0 2em 0;
+  }
   .project {
     display: block;
     float: left;
