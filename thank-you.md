@@ -2,8 +2,11 @@
 layout: page
 title: Thank You
 permalink: /thank-you/
-feature-img: "img/color.png"
+feature-img: "thankyou.jpg"
 hide: true
 ---
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+{:.center}
+Many thanks for taking the time to visit my site and send me a message - I'll get back to you as soon as I can!
+
+<p class="center thank-you"><img src="/img/thankyou.jpg" alt="" /></p>
