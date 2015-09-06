@@ -26,7 +26,7 @@ Bloccit, a Reddit replica, is the first app I made as a Bloc student. Bloccit is
 
 {:.center}
 ### Technologies
-**Languages, Libraries, and Frameworks:** Ruby on Rails, AJAX, jQuery, Bootstrap
+**Languages, Libraries, and Frameworks:** Ruby on Rails, jQuery, AJAX, Bootstrap
 
 **Databases:** SQLite (Test, Development), PostgreSQL (Production)
 

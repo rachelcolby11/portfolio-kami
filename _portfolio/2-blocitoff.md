@@ -16,9 +16,9 @@ Blocitoff is a self-destructing to-do list application using Ruby on Rails. User
 
 {:.center}
 ### Features
-* Users can create an account and make their own personal to-do list.
-* Users can create items, mark them as complete, or remove them from the list.
+* Users can create an account, make their own personal to-do list, and add new items to their list.
 * The list will display the number of days until each item is scheduled for automatic deletion.
+* Once users complete an item, they can mark it as complete and remove it from the list.
 * At the end of each day, items more than 7 days old will be automatically deleted from the list.
 
 {:.center}
