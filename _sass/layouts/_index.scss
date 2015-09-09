@@ -40,10 +40,30 @@
   }
 }
 
-.call-out.index {
+div.call-out.index {
   padding: 120px 0;
-  .divider {
-    background-color: #131A77;
+  div.transparent {
+    display: inline-block;
+    width: 50%;
+    padding: 20px;
+    background-color: rgba(150, 195, 250, .4);
+    h1 {
+      color: #FD1E58;
+      -webkit-text-fill-color: #FD1E58; 
+      -webkit-text-stroke-width: 2px;
+      -webkit-text-stroke-color: #131A77;
+    }
+    p {
+      color: #131A77;
+      font-size: 1.25em;
+    }
+    a {
+      color: #FD1E58;
+      font-size: 1.25em;
+    }  
+    .divider {
+      background-color: #131A77;
+    }
   }
 }
 

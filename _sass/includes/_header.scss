@@ -53,23 +53,9 @@
 .site-header.index {
   background-color: #3fdbf3;
   background-image: url('/img/water.jpg');
-  background-size: cover; 
-  h1 {
-    -webkit-text-fill-color: #FD1E58; 
-    -webkit-text-stroke-width: 2px;
-    -webkit-text-stroke-color: #131A77;
-  }
-  p {
-    color: #131A77;
-    font-size: 1.25em;
-  }
-  a {
-    color: #FD1E58;
-    font-size: 1.25em;
-  }  
+  background-size: cover;  
   a.page-link {
     color: #131A77;
     font-size: 1em;
   }
-
 }
