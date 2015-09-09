@@ -44,7 +44,8 @@ div.call-out.index {
   padding: 120px 0;
   div.transparent {
     display: inline-block;
-    width: 50%;
+    width: 23em;
+    max-width: 90vw;
     padding: 20px;
     background-color: rgba(150, 195, 250, .4);
     h1 {
