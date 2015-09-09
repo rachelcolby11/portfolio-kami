@@ -48,17 +48,17 @@ div.call-out.index {
     padding: 20px;
     background-color: rgba(150, 195, 250, .4);
     h1 {
-      color: #FD1E58;
-      -webkit-text-fill-color: #FD1E58; 
+      color: rgb(50, 253, 225); 
+      -webkit-text-fill-color: rgb(50, 253, 225); 
       -webkit-text-stroke-width: 2px;
-      -webkit-text-stroke-color: #131A77;
+      -webkit-text-stroke-color: #131A77; 
     }
     p {
       color: #131A77;
       font-size: 1.25em;
     }
     a {
-      color: #FD1E58;
+      color: #FDAA1E;
       font-size: 1.25em;
     }  
     .divider {
@@ -70,6 +70,7 @@ div.call-out.index {
 .call-out p:last-child {
   margin-bottom: 0;
 }
+
 // Post listing
 .posts {
   @extend %padding-header;
