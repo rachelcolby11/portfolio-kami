@@ -41,7 +41,7 @@
 }
 
 div.call-out.index {
-  padding: 120px 0;
+  padding: 15% 0;
   div.transparent {
     display: inline-block;
     width: 23em;
@@ -72,6 +72,12 @@ div.call-out.index {
   margin-bottom: 0;
 }
 
+.index-divider {
+  height: 90px;
+  background-color: #131A77;
+  background-size: cover;
+}
+
 // Post listing
 .posts {
   @extend %padding-header;
@@ -97,12 +103,6 @@ div.call-out.index {
   .excerpt {
     margin: 1em 0;
   }
-}
-
-.index-divider {
-  height: 90px;
-  background-color: #131A77;
-  background-size: cover;
 }
 
 //Projects
