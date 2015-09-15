@@ -10,6 +10,17 @@ short-description: A SaaS app where users create their own wikis and can opt to 
 ![]({{ site.baseurl }}/img/blocipedia.png)
 
 {:.center}
+<h5>
+  <a href="https://github.com/rachelcolby11/Blocipedia" class="button">
+    GitHub Repo
+    <i class="fa fa-fw fa-github"></i>
+  </a>
+  <a href="https://blocipedia-rc.herokuapp.com/" class="button">
+    Heroku Demo
+  </a>
+</h5>
+
+{:.center}
 ### Overview
 
 Blocipedia is a Ruby on Rails application that allows users to create wikis and collaborate on other wikis. Users can pay to upgrade their membership, allowing them to view and create private wikis. 

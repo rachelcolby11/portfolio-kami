@@ -10,6 +10,17 @@ short-description: An app that lets users make and share lists of gifts they hop
 ![]({{ site.baseurl }}/img/wrapt.png)
 
 {:.center}
+<h5>
+  <a href="https://github.com/rachelcolby11/Wrapt" class="button">
+    GitHub Repo
+    <i class="fa fa-fw fa-github"></i>
+  </a>
+  <a href="https://wrapt.herokuapp.com/" class="button">
+    Heroku Demo
+  </a>
+</h5>
+
+{:.center}
 ### Overview
 
 Wrapt is a Ruby on Rails application that allows users to create a wishlist of gifts they hope to receive, and view their friends'​ lists in one place. It's designed to make the process of gift-giving and gift-receiving easier,  less stressful, and more gratifying for everyone involved.

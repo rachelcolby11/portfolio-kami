@@ -10,9 +10,20 @@ short-description: A Reddit replica where users can post, comment, and vote on l
 ![]({{ site.baseurl }}/img/bloccit.png)
 
 {:.center}
+<h5>
+  <a href="https://github.com/rachelcolby11/Bloccit/" class="button">
+    GitHub Repo
+    <i class="fa fa-fw fa-github"></i>
+  </a>
+  <a href="https://bloccit-rc.herokuapp.com/" class="button">
+    Heroku Demo
+  </a>
+</h5>
+
+{:.center}
 ### Overview
 
-Bloccit, a Reddit replica, is the first app I made as a Bloc student. Bloccit is a Ruby on Rails app that lets users post, comment, and vote on links and content. 
+Bloccit, a Reddit replica, is the first app I made as a Bloc student. Bloccit is a Ruby on Rails app that lets users post, comment, and vote on links and content.
 
 {:.center}
 ### Features
