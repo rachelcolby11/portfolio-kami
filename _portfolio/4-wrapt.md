@@ -12,7 +12,7 @@ short-description: An app that lets users make and share lists of gifts they hop
 {:.center}
 <h5>
   <a href="https://wrapt.herokuapp.com/" class="button">
-    Live Site
+    Website
   </a>
   <a href="https://github.com/rachelcolby11/Wrapt" class="button">
     Source Code
@@ -32,7 +32,7 @@ Wrapt was my capstone project at Bloc, and one that is very close to my heart. I
 Although I began this project as a Bloc student, I've kept building on it since graduating. I've made continual updates to improve the user interface, and I constantly think of improvements I'd like to make and features I could add. I would ultimately like to monetize the app by leveraging the Amazon Product Advertising API to suggest items to users.
 
 {:.center}
-### What makes Wrapt special?
+### What makes Wrapt unique?
 * Unlike existing registry options, users can identify a specific product (like, "one-year subsciption to Apple Music") **or** they can simply describe something for the gift-giver to pick out on their own (like, "a new laptop bag, preferably pink or purple").
 * Wrapt allows users to "claim"​ a gift they plan to purchase so that other users will know not to duplicate that gift.
 * Wrapt also lets users restrict viewing permissions on items they want only certain friends or relatives to see. For instance, (believe it or not!) my parents are the only people I trust to buy me shoes. So if I wanted a new pair of boots, I'd restrict everyone but my parents from viewing that item.
