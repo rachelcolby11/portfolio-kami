@@ -11,12 +11,12 @@ short-description: A Reddit replica where users can post, comment, and vote on l
 
 {:.center}
 <h5>
-  <a href="https://github.com/rachelcolby11/Bloccit/" class="button">
-    GitHub Repo
-    <i class="fa fa-fw fa-github"></i>
-  </a>
   <a href="https://bloccit-rc.herokuapp.com/" class="button">
     Heroku Demo
+  </a>
+  <a href="https://github.com/rachelcolby11/Bloccit/" class="button">
+    Source Code
+    <i class="fa fa-fw fa-github"></i>
   </a>
 </h5>
 

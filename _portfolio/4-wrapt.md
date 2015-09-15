@@ -11,12 +11,12 @@ short-description: An app that lets users make and share lists of gifts they hop
 
 {:.center}
 <h5>
-  <a href="https://github.com/rachelcolby11/Wrapt" class="button">
-    GitHub Repo
-    <i class="fa fa-fw fa-github"></i>
-  </a>
   <a href="https://wrapt.herokuapp.com/" class="button">
-    Heroku Demo
+    Live Site
+  </a>
+  <a href="https://github.com/rachelcolby11/Wrapt" class="button">
+    Source Code
+    <i class="fa fa-fw fa-github"></i>
   </a>
 </h5>
 

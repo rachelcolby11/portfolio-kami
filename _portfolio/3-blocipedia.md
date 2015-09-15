@@ -11,12 +11,12 @@ short-description: A SaaS app where users create their own wikis and can opt to 
 
 {:.center}
 <h5>
-  <a href="https://github.com/rachelcolby11/Blocipedia" class="button">
-    GitHub Repo
-    <i class="fa fa-fw fa-github"></i>
-  </a>
   <a href="https://blocipedia-rc.herokuapp.com/" class="button">
     Heroku Demo
+  </a>  
+  <a href="https://github.com/rachelcolby11/Blocipedia" class="button">
+    Source Code
+    <i class="fa fa-fw fa-github"></i>
   </a>
 </h5>
 
