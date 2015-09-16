@@ -1,6 +1,6 @@
   <div class="work">
     <h3>Recent Projects</h3>
-    <div class="project wrapt">
+    <div class="project-index wrapt">
         <div class="image-container">
           <a href="/portfolio/4-wrapt/">
             <img src="img/wrapt.png" alt="Wrapt"/>
@@ -12,7 +12,7 @@
           </div>
         </div>
       </div>
-    <div class="project">  
+    <div class="project-index">  
       {% for project in site.portfolio limit:3 %}
           <div class="image-container">
             <a href="{{ project.url | prepend: site.baseurl }}">
