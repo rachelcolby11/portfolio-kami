@@ -128,7 +128,8 @@ div.call-out.index {
       max-width: 95%;
     }
     strong {
-      font-size: 1.1em;
+      font-size: 1.2em;
+      line-height: 150%;
     }
   }
 } 
@@ -142,8 +143,9 @@ div.call-out.index {
   float: left;
   width: 100%;
   padding: 5% 1em;
-  h3 {
-    margin: 0 0 2em 0;
+  h2 {
+    font-size: 2.3em;
+    margin: 0 0 .4em 0;
   }
   .project {
     display: block;
