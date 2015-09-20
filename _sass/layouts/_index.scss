@@ -42,28 +42,30 @@
 
 div.call-out.index {
   padding: 15% 0;
-  div.transparent {
+  div.title-box {
     display: inline-block;
+    box-sizing: border-box;
     width: 23em;
     max-width: 90vw;
-    padding: 20px;
-    background-color: rgba(150, 195, 250, .4);
+    background-color: rgba(150, 195, 250, .4); 
+    padding: 15px;
+    div.inner-box {  
+      background-color: #131A77;
+      padding: 5px;
+    }
     h1 {
-      color: rgb(50, 253, 225); 
-      -webkit-text-fill-color: rgb(50, 253, 225); 
-      -webkit-text-stroke-width: 2px;
-      -webkit-text-stroke-color: #131A77; 
+      color: rgb(50, 253, 225);  
     }
     p {
-      color: #131A77;
+      color: #FDAA1E;
       font-size: 1.25em;
     }
     a {
-      color: #FDAA1E;
+      color: #FFF700;
       font-size: 1.25em;
     }  
     .divider {
-      background-color: #131A77;
+      background-color: rgb(50, 253, 225);
     }
   }
 }

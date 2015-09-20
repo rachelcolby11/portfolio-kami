@@ -18,14 +18,16 @@
 	{% if site.theme.header_text %}
   <div class="call-out index" 
   style="background-image: url('{{ site.baseurl }}/{{ site.theme.header_text_feature_image }}')">
-    <div class="transparent">
-  		<div class="divider"></div>
-      {{ site.theme.header_text }}
-      <div class="divider"></div>
-      <!-- Social icons from Font Awesome, if enabled -->
-  	  <ul>
-  	    {% include icons.html %}
-  		</ul>
+    <div class="title-box">
+      <div class="inner-box">
+    		<div class="divider"></div>
+        {{ site.theme.header_text }}
+        <div class="divider"></div>
+        <!-- Social icons from Font Awesome, if enabled -->
+    	  <ul>
+    	    {% include icons.html %}
+    		</ul>
+      </div>
     </div>
   </div>
   {% endif %}
