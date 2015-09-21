@@ -120,13 +120,19 @@ img[align=right] {
 p.about img {
   max-width: 25%;
   border: 7px solid;
-  border-color: #131A77;
+  border-color: #131A77; 
   border-radius: 16px;
+  @media (max-width: 1000px) {
+    max-width: 65%;
+  }
 }
 p.thank-you img {
   max-width: 20%;
   border: 5px solid;
-  border-color: #131A77;
+  border-color: #1F87CE;
   border-radius: 50%;
   margin-top: 5%;
+  @media (max-width: 1000px) {
+    max-width: 65%;
+  }
 }
