@@ -1,19 +1,21 @@
 <!-- Changes to this file should only affect index.html; that is the only file using the default layout which is the only layout that calls header.
  -->  
  <header class="site-header index">
-	<nav class="site-nav">
-		<ul>
-			{% for page in site.pages %}
-			{% if page.title and page.hide != true %}
-			<li>
-				<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">
-					{{ page.title }}
-				</a>
-			</li>
-			{% endif %}
-			{% endfor %}
-		</ul>
-	</nav>
+  <div class="nav-strip">
+  	<nav class="site-nav">
+  		<ul>
+  			{% for page in site.pages %}
+  			{% if page.title and page.hide != true %}
+  			<li>
+  				<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">
+  					{{ page.title }}
+  				</a>
+  			</li>
+  			{% endif %}
+  			{% endfor %}
+  		</ul>
+  	</nav>
+  </div>
 
 	{% if site.theme.header_text %}
   <div class="call-out index" 
