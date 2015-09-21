@@ -121,7 +121,10 @@
 }
 
 div.call-out.index {
-  padding: 15% 0;
+  padding: 10% 0;
+  @media (max-width: 1300px) {
+    padding: 15% 0;
+  }
   div.title-box {
     display: inline-block;
     box-sizing: border-box;
