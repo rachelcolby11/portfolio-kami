@@ -4,6 +4,28 @@
   background-size: cover;
 }
 
+.index-about {
+  background-color: #00c0fa;
+  background-size: cover;
+  @extend %padding-regular;
+  background-size: $feature-image-size;
+  display: block;
+  width: 100%;
+  padding: 2% 5%;
+  p {
+    color: #32fde1;
+    color: #131A77;
+    margin: 0 5px;
+    text-align: justify;
+  }
+  div.about-link {
+    text-align: center;
+    a {
+      text-align: center;
+    }
+  }
+}
+
 // Post listing
 .posts {
   @extend %padding-header;
