@@ -43,3 +43,11 @@ Blocitoff is a self-destructing to-do list application using Ruby on Rails. User
 * Devise for user authentication
 * SendGrid for email confirmation
 * Heroku Scheduler for rake automation
+
+{:.center}
+<h5>
+  <a href="/portfolio/3-blocipedia/" class="button next-project">
+    Next: Blocipedia
+    <i class="fa fa-chevron-right"></i>
+  </a>
+</h5>

@@ -46,3 +46,10 @@ Blocipedia is a Ruby on Rails application that allows users to create wikis and 
 * Redcarpet for Markdown formatting
 * Pundit for authorization
 * Stripe for payments
+
+{:.center}
+<h5>
+  <a href="/" class="button next-project">
+    Return to Main Page
+  </a>
+</h5>

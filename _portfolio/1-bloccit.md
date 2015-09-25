@@ -50,3 +50,11 @@ Bloccit, a Reddit replica, is the first app I made as a Bloc student. Bloccit is
 * Redcarpet for Markdown formatting
 * Will_paginate for pagination 
 * Pundit for authorization
+
+{:.center}
+<h5>
+  <a href="/portfolio/2-blocitoff/" class="button next-project">
+    Next: Blocitoff
+    <i class="fa fa-chevron-right"></i>
+  </a>
+</h5>

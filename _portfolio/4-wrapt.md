@@ -62,3 +62,11 @@ Although I began this project as a Bloc student, I've kept building on it since 
 * Devise for user authentication
 * SendGrid for email notifications
 * Pundit for authorization
+
+{:.center}
+<h5>
+  <a href="/portfolio/1-bloccit/" class="button next-project">
+    Next: Bloccit
+    <i class="fa fa-chevron-right"></i>
+  </a>
+</h5>

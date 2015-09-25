@@ -35,6 +35,9 @@ a.button:hover {
   color: $background-color;
   text-decoration: none;
 }
+.button.next-project {
+  font-size: 1.2em;
+}
 // States
 .disabled {
   opacity: 0.7;
