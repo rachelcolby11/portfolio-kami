@@ -4,6 +4,6 @@
 
 Source code: https://github.com/rachelcolby11/rachelcolby11.github.io
 
-Deployed using GitHub pages.
+Deployed using GitHub Pages.
 
 This portfolio site was orginally forked from [Bloc.io's Portfolio-Kami Jekyll theme](https://github.com/madebymunsters/portfolio-kami).
