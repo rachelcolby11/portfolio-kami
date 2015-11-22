@@ -133,11 +133,11 @@ div.call-out.index {
     background-color: rgba(150, 195, 250, .4); 
     padding: 15px;
     div.inner-box {  
-      background-color: #131A77;
+      background-color: rgba(0,25,150,0.7);
       padding: 5px;
     }
     h1 {
-      color: rgb(50, 253, 225);  
+      color: #00EEFA;
     }
     p {
       color: #FDAA1E;
@@ -148,7 +148,7 @@ div.call-out.index {
       font-size: 1.25em;
     }  
     .divider {
-      background-color: rgb(50, 253, 225);
+      background-color: #00EEFA;
     }
   }
 }
