@@ -27,9 +27,9 @@ Wrapt is a Ruby on Rails application that allows users to create a wishlist of g
 
 {:.center}
 ### The story behind Wrapt:
-Wrapt was my capstone project at Bloc, and one that is very close to my heart. I want to give my family and friends amazing gifts, but it's hard to think up ideas that are truly worthy of them. At the same time, it can also feel awkward or presumptous to update my friends and family when I think of a gift I'd like to receive. I built Wrapt so that people could access up-to-date wishlists from their friends and family all in one place, and update their own wishlist without feeling obnoxious.
+Wrapt is a project that is very close to my heart; I want to give my family and friends amazing gifts, but it's hard to think up ideas that are truly worthy of them. At the same time, it can also feel awkward or presumptous to update my friends and family when I think of a gift I'd like to receive. I built Wrapt so that people could access up-to-date wishlists from their friends and family all in one place, and update their own wishlist without feeling obnoxious.
 
-Although I began this project as a Bloc student, I've kept building on it since graduating. I've made continual updates to improve the user interface, and I constantly think of improvements I'd like to make and features I could add. I would ultimately like to monetize the app by leveraging the Amazon Product Advertising API to suggest items to users.
+Wrapt is an ongoing project: I've made continual updates to improve the user interface, and I constantly think of improvements I'd like to make and features I could add. I would ultimately like to monetize the app by leveraging the Amazon Product Advertising API to suggest items to users.
 
 {:.center}
 ### What makes Wrapt unique?

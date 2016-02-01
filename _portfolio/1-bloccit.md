@@ -23,7 +23,7 @@ short-description: A Reddit replica where users can post, comment, and vote on l
 {:.center}
 ### Overview
 
-Bloccit, a Reddit replica, is the first app I made as a Bloc student. Bloccit is a Ruby on Rails app that lets users post, comment, and vote on links and content.
+Bloccit, a Reddit replica, is the first Ruby on Rails app I built. Bloccit is a Ruby on Rails app that lets users post, comment, and vote on links and content.
 
 {:.center}
 ### Features
