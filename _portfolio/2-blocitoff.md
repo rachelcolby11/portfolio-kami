@@ -38,7 +38,7 @@ Blocitoff is a self-destructing to-do list application using Ruby on Rails. User
 
 **Databases:** SQLite (Test, Development), PostgreSQL (Production)
 
-**Development Tools, Gems and Methodologies:** 
+**Development Tools and Gems:** 
 
 * Devise for user authentication
 * SendGrid for email confirmation
