@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blocipedia
+title: The Buzz
 thumbnail-path: "img/blocipedia.png"
 short-description: A SaaS app where users create their own wikis and can opt to pay for premium.
 
@@ -11,10 +11,10 @@ short-description: A SaaS app where users create their own wikis and can opt to 
 
 {:.center}
 <h5>
-  <a href="https://blocipedia-rc.herokuapp.com/" class="button">
+  <a href="http://thebuzzz.herokuapp.com" class="button">
     Heroku Demo
   </a>  
-  <a href="https://github.com/rachelcolby11/Blocipedia" class="button">
+  <a href="https://github.com/rachelcolby11/TheBuzz" class="button">
     Source Code
     <i class="fa fa-fw fa-github"></i>
   </a>
@@ -23,7 +23,7 @@ short-description: A SaaS app where users create their own wikis and can opt to 
 {:.center}
 ### Overview
 
-Blocipedia is a Ruby on Rails application that allows users to create wikis and collaborate on other wikis. Users can pay to upgrade their membership, allowing them to view and create private wikis. 
+The Buzz is a Ruby on Rails application that allows users to create wikis and collaborate on other wikis -- like a smaller, trendier version of Wikipedia where users share knowledge and read what everyone's buzzing about. For a small charge, users can upgrade their membership to Premium, allowing them to view and create private wikis.
 
 {:.center}
 ### Features
