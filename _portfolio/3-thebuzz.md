@@ -1,13 +1,13 @@
 ---
 layout: post
 title: The Buzz
-thumbnail-path: "img/blocipedia.png"
+thumbnail-path: "img/thebuzz.png"
 short-description: A SaaS app where users create their own wikis and can opt to pay for premium.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocipedia.png)
+![]({{ site.baseurl }}/img/thebuzz.png)
 
 {:.center}
 <h5>
