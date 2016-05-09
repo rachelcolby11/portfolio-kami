@@ -46,8 +46,7 @@ Blocitoff is a self-destructing to-do list application using Ruby on Rails. User
 
 {:.center}
 <h5>
-  <a href="/portfolio/3-blocipedia/" class="button next-project">
-    Next: Blocipedia
-    <i class="fa fa-chevron-right"></i>
+  <a href="/" class="button next-project">
+    Return to Main Page
   </a>
 </h5>

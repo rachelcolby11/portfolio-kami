@@ -49,7 +49,8 @@ The Buzz is a Ruby on Rails application that allows users to create wikis and co
 
 {:.center}
 <h5>
-  <a href="/" class="button next-project">
-    Return to Main Page
+  <a href="/portfolio/3-blocitoff/" class="button next-project">
+    Next: Blocitoff
+    <i class="fa fa-chevron-right"></i>
   </a>
 </h5>

@@ -53,8 +53,8 @@ Bloccit, a Reddit replica, is the first Ruby on Rails app I built. Bloccit is a 
 
 {:.center}
 <h5>
-  <a href="/portfolio/2-blocitoff/" class="button next-project">
-    Next: Blocitoff
+  <a href="/portfolio/2-thebuzz/" class="button next-project">
+    Next: The Buzz
     <i class="fa fa-chevron-right"></i>
   </a>
 </h5>
