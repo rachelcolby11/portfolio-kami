@@ -47,7 +47,7 @@
 
       @media (max-width: 1100px) {
         ul {
-          display: inline-block;        
+          display: inline-block;
           width: 100%;
           text-align: center;
         }
@@ -61,15 +61,15 @@
 .site-header.index {
   background-color: #3fdbf3;
   background-image: url('/img/water.jpg');
-  background-size: cover; 
+  background-size: cover;
   ul {
     padding: 0;
     font-size: 1em;
   }
   a.page-link {
-    color: #FDAA1E;
+    color: $dark-blue;
     font-size: 1em;
-    margin: 0; 
+    margin: 0;
   }
   @media (max-width: 1100px) {
   a.page-link {
@@ -130,25 +130,24 @@ div.call-out.index {
     box-sizing: border-box;
     width: 23em;
     max-width: 90vw;
-    background-color: rgba(150, 195, 250, .4); 
-    padding: 15px;
-    div.inner-box {  
-      background-color: rgba(0,25,150,0.7);
+    background-color: rgba(150, 195, 250, 0.4); /* light blue transparent */
+    border: 10px solid rgba(0, 25, 150, 0.7); /* dark blue semi-transparent*/
+    color: $dark-blue;
+    padding: 25px;
+    div.inner-box {
+      background-color: #00c0fa; /* bright blue */
+      border: 3px solid rgba(0, 25, 150, 0.7); /* dark blue semi-transparent*/
       padding: 5px;
     }
-    h1 {
-      color: #00EEFA;
-    }
     p {
-      color: #FDAA1E;
       font-size: 1.25em;
     }
     a {
-      color: #FFF700;
+      color: $dark-blue;
       font-size: 1.25em;
-    }  
+    }
     .divider {
-      background-color: #00EEFA;
+      background-color: $dark-blue;
     }
   }
 }
