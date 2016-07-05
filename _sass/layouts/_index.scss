@@ -4,7 +4,7 @@
 }
 .index-divider {
   height: 90px;
-  background-color: #1B24A7;
+  background-color: $dark-blue;
   background-size: cover;
 }
 
@@ -84,7 +84,7 @@
       line-height: 150%;
     }
   }
-} 
+}
 
 
 .work {
@@ -128,16 +128,16 @@
     .excerpt {
       margin-top: 1em;
     }
-  } 
+  }
 }
 // Index Contact Section
 div.section-container {
   background-color: #00C0FA;
   margin: 0 10%;
-  border: 10px solid #1B24A7;
+  border: 10px solid $dark-blue;
   .button {
     background-color: #00EEFA;
-    border: 2px solid #1B24A7;
+    border: 2px solid $dark-blue;
     border-radius: 0;
     margin: 0 0 1em 0;
   }
