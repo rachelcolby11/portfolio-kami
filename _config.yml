@@ -3,7 +3,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://rachelpcolby.com"
 
 # THEME-SPECIFIC CONFIGURATION
-theme:
+theme_settings:
   # Meta
   title: Rachel Colby
   description: "Professional portfolio - Rachel Colby - Software Developer" # used by search engines
