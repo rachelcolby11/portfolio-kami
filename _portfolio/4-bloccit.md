@@ -41,20 +41,19 @@ Bloccit, a Reddit replica, is the first Ruby on Rails app I built. Bloccit is a 
 
 **Databases:** SQLite (Test, Development), PostgreSQL (Production)
 
-**Development Tools, Gems and Methodologies:** 
+**Development Tools, Gems and Methodologies:**
 
 * Test-Driven Development: RSpec, Capybara, FactoryGirl
 * Amazon Web Services (S3) for image storage
 * Devise for user authentication
 * SendGrid for email notifications
 * Redcarpet for Markdown formatting
-* Will_paginate for pagination 
+* Will_paginate for pagination
 * Pundit for authorization
 
 {:.center}
 <h5>
-  <a href="/portfolio/2-thebuzz/" class="button next-project">
-    Next: The Buzz
-    <i class="fa fa-chevron-right"></i>
+  <a href="/" class="button next-project">
+    Return to Main Page
   </a>
 </h5>

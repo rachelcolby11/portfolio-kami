@@ -31,7 +31,7 @@ The Buzz is a Ruby on Rails application that allows users to create wikis and co
 * Users can pay to upgrade their account to Premium in order to view and create private wikis.
 * Premium users can allow others to view and collaborate on the private wikis they create.
 * Premium users can downgrade their account back to Standard.
-* When a user downgrades his or her account, his or her private wikis will automatically become public. 
+* When a user downgrades his or her account, his or her private wikis will automatically become public.
 
 {:.center}
 ### Technologies
@@ -39,7 +39,7 @@ The Buzz is a Ruby on Rails application that allows users to create wikis and co
 
 **Databases:** SQLite (Test, Development), PostgreSQL (Production)
 
-**Development Tools and Gems:** 
+**Development Tools and Gems:**
 
 * Devise for user authentication
 * SendGrid for email confirmation
@@ -49,8 +49,8 @@ The Buzz is a Ruby on Rails application that allows users to create wikis and co
 
 {:.center}
 <h5>
-  <a href="/portfolio/3-blocitoff/" class="button next-project">
-    Next: Blocitoff
+  <a href="/portfolio/3-ticktocktoe/" class="button next-project">
+    Next: Tick-Tock-Toe
     <i class="fa fa-chevron-right"></i>
   </a>
 </h5>

@@ -2,7 +2,7 @@
 layout: post
 title: Wrapt
 thumbnail-path: "img/wrapt.png"
-short-description: An app that lets users make and share lists of gifts they hope to receive.
+short-description: Bringing the joy back to giving! A one-stop shop for all your gift planning needs! Wrapt is a Ruby on Rails application that allows users to create a wishlist of gifts and view their friends’​ lists in one place.
 
 ---
 
@@ -48,7 +48,7 @@ Wrapt is an ongoing project: I've made continual updates to improve the user int
 * Users can "claim" an item they plan to purchase. (The person who created the item cannot see that the item has been claimed.)
 * Seven days after claiming a gift, users receive a reminder to purchase the gift or release their claim so that others can purchase it.
 * Users can create, edit, and delete quick notes of gift ideas they think of.
-* After signing in, users are directed to a dashboard showing the items they have claimed, the notes they have made, and a list of friends whose birthdays are approaching within the next three months. 
+* After signing in, users are directed to a dashboard showing the items they have claimed, the notes they have made, and a list of friends whose birthdays are approaching within the next three months.
 * Users who still need to fill out their profile or add their birthday will see a reminder to do so at the top of the dashboard.
 
 {:.center}
@@ -57,7 +57,7 @@ Wrapt is an ongoing project: I've made continual updates to improve the user int
 
 **Databases:** SQLite (Test, Development), PostgreSQL (Production)
 
-**Development Tools and Gems:** 
+**Development Tools and Gems:**
 
 * RSpec for testing
 * Devise for user authentication
@@ -66,8 +66,8 @@ Wrapt is an ongoing project: I've made continual updates to improve the user int
 
 {:.center}
 <h5>
-  <a href="/portfolio/1-bloccit/" class="button next-project">
-    Next: Bloccit
+  <a href="/portfolio/2-thebuzz/" class="button next-project">
+    Next: The Buzz
     <i class="fa fa-chevron-right"></i>
   </a>
 </h5>

@@ -36,9 +36,9 @@ Tick-Tock-Toe is a fast and furious tic-tac-toe game with a twist: players must 
 **Languages, Libraries, and Frameworks:** JavaScript, jQuery, Underscore.js
 
 {:.center}
-<!-- <h5>
-  <a href="/portfolio/3-blocitoff/" class="button next-project">
-    Next: Blocitoff
+<h5>
+  <a href="/portfolio/4-bloccit/" class="button next-project">
+    Next: Bloccit
     <i class="fa fa-chevron-right"></i>
   </a>
-</h5> -->
+</h5>
