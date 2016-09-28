@@ -60,28 +60,26 @@
 //Projects
 .project-index {
   width:100%;
-  .image-container {
+  .project-container {
     padding: 0 .75em;
-    max-width: 20em;
-    display: inline-block;
-    .img-title {
-      margin: .4em 0 1em 0;
+    display: flex;
+    justify-content: center;
+    -webkit-flex-flow: row wrap;
+    flex-flow: row wrap;
+    .image-container {
+      margin: auto;
+      max-width: 20em;
+      display: inline-block;
+    }
+    .description {
+      // margin: .4em 0 1em 0;
+      // padding: auto .75em;
+      margin: auto;
+      max-width: 20em;
+      display: inline-block;
       p {
         font-size: .9em;
       }
-    }
-  }
-  .image-container.wrapt {
-    width: 26em;
-    max-width: 100%;
-    margin-bottom: 2em;
-    img {
-      width: 22em;
-      max-width: 95%;
-    }
-    strong {
-      font-size: 1.2em;
-      line-height: 150%;
     }
   }
 }
