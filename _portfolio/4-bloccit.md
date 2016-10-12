@@ -2,7 +2,8 @@
 layout: post
 title: Bloccit
 thumbnail-path: "img/bloccit.png"
-short-description: A Reddit replica where users can post, comment, and vote on links and content.
+tagline: Like a Reddit with fewer trolls!
+short-description: Bloccit users can post, comment, and vote on links and content. They can upload images, favorite posts they like, and even sign up to get email notifications when there are comments on a post they have favorited.
 
 ---
 

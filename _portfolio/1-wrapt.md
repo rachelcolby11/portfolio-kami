@@ -2,7 +2,8 @@
 layout: post
 title: Wrapt
 thumbnail-path: "img/wrapt.png"
-short-description: Bringing the joy back to giving! A one-stop shop for all your gift planning needs! Wrapt is a Ruby on Rails application that allows users to create a wishlist of gifts and view their friends’​ lists in one place.
+tagline: A one-stop shop for gift planning, all year round!
+short-description: Wrapt lets users create a wishlist of gifts and view their friends’​ lists, "claim"​ a gift they plan to purchase so that other users will know not to duplicate that gift, and even choose which loved ones can see certain items on their list.
 
 ---
 
@@ -22,7 +23,6 @@ short-description: Bringing the joy back to giving! A one-stop shop for all your
 
 {:.center}
 ### Overview
-
 Wrapt is a Ruby on Rails application that allows users to create a wishlist of gifts and view their friends'​ wishlists in one place. It's designed to make the process of gift-giving and gift-receiving easier,  less stressful, and more gratifying for everyone involved.
 
 {:.center}
@@ -33,7 +33,7 @@ Wrapt is an ongoing project: I've made continual updates to improve the user int
 
 {:.center}
 ### What makes Wrapt unique?
-* Unlike existing registry options, users can identify a specific product (like, "one-year subsciption to Apple Music") **or** they can simply describe something for the gift-giver to pick out on their own (like, "a new laptop bag, preferably pink or purple").
+* Unlike most existing registry options, users can identify a specific product (like, "one-year subsciption to Apple Music") **or** they can simply describe something for the gift-giver to pick out on their own (like, "a new laptop bag, preferably pink or purple").
 * Wrapt allows users to "claim"​ a gift they plan to purchase so that other users will know not to duplicate that gift.
 * Wrapt also lets users restrict viewing permissions on items they want only certain friends or relatives to see. For instance, (believe it or not!) my parents are the only people I trust to buy me shoes. So if I wanted a new pair of boots, I'd restrict everyone but my parents from viewing that item.
 

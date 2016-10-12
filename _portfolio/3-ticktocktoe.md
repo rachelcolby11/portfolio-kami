@@ -2,7 +2,8 @@
 layout: post
 title: Tick-Tock-Toe
 thumbnail-path: "img/ticktocktoe.png"
-short-description: A tic-tac-toe game with a time limit - players must make a move within five seconds or lose their turn!
+tagline: A fast and furious tic-tac-toe game!
+short-description: Players have five seconds to make a move! The timer shows the seconds remaining and the background changes color as time runs out. Tick-Tock-Toe automatically detects and announces a win or a Cat's Game.
 
 ---
 

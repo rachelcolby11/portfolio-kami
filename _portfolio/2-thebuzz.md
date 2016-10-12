@@ -2,7 +2,9 @@
 layout: post
 title: The Buzz
 thumbnail-path: "img/thebuzz.png"
-short-description: A SaaS app where users create their own wikis and can opt to pay for premium.
+tagline: Get the buzz with this collaborative app!
+short-description: The Buzz allows users to share knowledge by creating and collaborating on wikis. For a small charge, users can upgrade their membership to Premium, allowing them to view, create, and collaborate on private wikis.
+
 
 ---
 
@@ -23,7 +25,7 @@ short-description: A SaaS app where users create their own wikis and can opt to 
 {:.center}
 ### Overview
 
-The Buzz is a Ruby on Rails application that allows users to create wikis and collaborate on other wikis -- like a smaller, trendier version of Wikipedia where users share knowledge and read what everyone's buzzing about. For a small charge, users can upgrade their membership to Premium, allowing them to view and create private wikis.
+The Buzz is a Ruby on Rails application that allows users to create wikis and collaborate on other wikis -- like a smaller, trendier version of Wikipedia where users share knowledge and read what everyone's buzzing about. For a small charge, users can upgrade their membership to Premium, allowing them to view, create, and collaborate on private wikis.
 
 {:.center}
 ### Features
