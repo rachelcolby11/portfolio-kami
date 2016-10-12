@@ -87,7 +87,11 @@
       max-width: 20em;
       display: inline-block;
       p {
-        font-size: .9em;
+        font-size: 1.1em;
+      }
+      .tagline {
+        font-style: italic;
+        text-align: center;
       }
     }
   }
