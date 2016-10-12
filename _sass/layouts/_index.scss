@@ -58,8 +58,17 @@
 }
 
 //Projects
-.project-index {
-  width:100%;
+.work {
+  @extend %padding-regular;
+  background-size: $feature-image-size;
+  text-align: center;
+  display: block;
+  width: 100%;
+  padding: 10% 1em;
+  h2 {
+    font-size: 2.3em;
+    margin: 0 0 .4em 0;
+  }
   .project-container {
     padding: 0 .75em;
     display: flex;
@@ -84,20 +93,6 @@
   }
 }
 
-
-.work {
-  @extend %padding-regular;
-  background-size: $feature-image-size;
-  text-align: center;
-  display: block;
-  float: left;
-  width: 100%;
-  padding: 5% 1em;
-  h2 {
-    font-size: 2.3em;
-    margin: 0 0 .4em 0;
-  }
-}
 // Index Contact Section
 div.section-container {
   background-color: #00C0FA;
