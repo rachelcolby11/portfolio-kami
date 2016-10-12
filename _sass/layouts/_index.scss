@@ -63,29 +63,47 @@
   background-size: $feature-image-size;
   text-align: center;
   display: block;
-  width: 100%;
-  padding: 10% 1em;
+  padding: 5% 0;
+  margin: 0 10%;
   h2 {
     font-size: 2.3em;
     margin: 0 0 .4em 0;
+    margin-bottom: 1em;
   }
   .project-container {
-    padding: 0 .75em;
+    margin: auto 10px;
+    padding: 1em .75em;
     display: flex;
+    height: 100%;
     justify-content: center;
-    -webkit-flex-flow: row wrap;
     flex-flow: row wrap;
+    align-items: center;
+    align-content: center;
     .image-container {
-      margin: auto;
-      max-width: 20em;
+      height: 15em;
       display: inline-block;
+      flex: 1;
+      align-self: center;
+      padding: 10px;
+      img {
+        margin-top: 3%;
+        max-height: 90%;
+        max-width: 80%;
+      }
     }
     .description {
-      // margin: .4em 0 1em 0;
-      // padding: auto .75em;
-      margin: auto;
-      max-width: 20em;
       display: inline-block;
+      flex: 1;
+      align-self: center;
+      padding: 1em .75em;
+      text-align: left;
+      padding: 10px;
+      a {
+        display: block;
+        font-size: 1.4em;
+        text-align: center;
+        padding: 4px 0;
+      }
       p {
         font-size: 1.1em;
       }
@@ -112,4 +130,16 @@ div.section-container {
 
 .center {
   text-align: center;
+}
+
+@media all and ( max-width: 600px ) {
+  .work .project-container {
+    flex-flow: column;
+  }
+  .description {
+    width: 100%;
+  }
+  .image-container {
+    width: 100%;
+  }
 }
