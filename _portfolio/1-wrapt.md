@@ -2,6 +2,7 @@
 layout: post
 title: Wrapt
 thumbnail-path: "img/wrapt.png"
+image-class: "desktop"
 tagline: A one-stop shop for gift planning, all year round!
 short-description: Wrapt lets users create a wishlist of gifts and view their friends’​ lists, "claim"​ a gift they plan to purchase so that other users will know not to duplicate that gift, and even choose which loved ones can see certain items on their list.
 

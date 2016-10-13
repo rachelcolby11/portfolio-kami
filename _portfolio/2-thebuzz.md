@@ -2,6 +2,7 @@
 layout: post
 title: The Buzz
 thumbnail-path: "img/thebuzz.png"
+image-class: "macbook-pro"
 tagline: Get the buzz with this collaborative app!
 short-description: The Buzz allows users to share knowledge by creating and collaborating on wikis. For a small charge, users can upgrade their membership to Premium, allowing them to view, create, and collaborate on private wikis.
 

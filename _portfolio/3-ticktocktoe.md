@@ -2,6 +2,7 @@
 layout: post
 title: Tick-Tock-Toe
 thumbnail-path: "img/ticktocktoe.png"
+image-class: "htc"
 tagline: A fast and furious tic-tac-toe game!
 short-description: Players have five seconds to make a move! The timer shows the seconds remaining and the background changes color as time runs out. Tick-Tock-Toe automatically detects and announces a win or a Cat's Game.
 
