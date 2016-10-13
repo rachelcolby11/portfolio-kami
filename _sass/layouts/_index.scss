@@ -132,7 +132,7 @@ div.section-container {
   text-align: center;
 }
 
-@media all and ( max-width: 600px ) {
+@media all and ( max-width: 768px ) {
   .work .project-container {
     flex-flow: column;
   }
